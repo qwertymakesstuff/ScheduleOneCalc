@@ -1,0 +1,71 @@
+grow tent - 100
+soil - 10
+long life soil 30
+extra long life soil 60
+watering can 15
+plant trimmers 10
+electric plant trimmers 50
+packaging station 100
+packaging station mk 2 750
+baggie 1
+bed 150
+coffee table 120
+wooden square table 50
+metal square table 60
+floor lamp 25
+tv 300
+small storage rack 30
+medium storage rack 45
+large storage rack 60
+display cabinet 250
+trash bag 1
+trash grabber 20
+trash can 25
+jar 3
+fertilizer 30
+pgr 30
+speed grow 30
+pot sprinkler 200
+mixing station 500
+soil pourer 300
+og kush seeds 30
+sour diesel seeds 35
+green crack seeds 40
+granddaddy purple seeds 45
+low quality pseudo 60
+pseudo 80
+high quality pseudo 110
+cheap skateboard 75
+skateboard 250
+lightweight skateboard 500
+cuke 2
+banana 2
+paracetamol 3
+donut 3
+Viagra 4
+mouth wash 4
+flu medicine 5
+gasoline 5
+energy drink 6
+motor oil 6 
+mega bean 7
+chili 7
+battery 8
+iodine 8
+addy 9
+horse semen 9
+acid 40
+phosphorus 40
+plastic pot 20
+moisture preserving pot 50
+suspension rack 40
+halogen grow light 40
+led grow light 80
+full spectrum grow light 200
+Chemistry station 100
+lab oven 1000
+mixing station mk 2 2000
+air pot 120
+drying rack 250
+brick press 800
+cauldron 3000
