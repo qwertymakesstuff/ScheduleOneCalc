@@ -1,0 +1,25 @@
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\bin\Debug\Schedule 1 Calculator.exe
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\bin\Debug\Schedule 1 Calculator.pdb
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.Form1.resources
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.Properties.Resources.resources
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.csproj.GenerateResource.Cache
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.exe
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.pdb
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.About.resources
+C:\Users\nfowler27\Desktop\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.frmGit.resources
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\bin\Debug\Schedule 1 Calculator.exe
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\bin\Debug\Schedule 1 Calculator.pdb
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.csproj.AssemblyReference.cache
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.About.resources
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.Form1.resources
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.frmGit.resources
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule_1_Calculator.Properties.Resources.resources
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.csproj.GenerateResource.cache
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.csproj.CoreCompileInputs.cache
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.exe
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.pdb
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\bin\Debug\Schedule 1 Calculator.exe.manifest
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\bin\Debug\Schedule 1 Calculator.application
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.TrustInfo.xml
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.exe.manifest
+D:\schedule1calc\Schedule 1 Calculator\Schedule 1 Calculator\obj\x86\Debug\Schedule 1 Calculator.application
